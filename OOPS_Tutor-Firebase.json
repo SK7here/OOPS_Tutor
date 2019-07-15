@@ -1,0 +1,51 @@
+{
+  "abstractdef" : {
+    "abstract" : "An abstraction is an act of representing essential features without including background details. It is a technique of creating a new data type that is suited for a specific application. For example, while driving a car, you do not have to be concerned with its internal working. Here you just need to concern about parts like steering wheel, Gears, accelerator, etc."
+  },
+  "admin_details" : {
+    "email" : "jeevamay6@gmail.com",
+    "password" : "jeeva007"
+  },
+  "aggregationdef" : {
+    "aggregation" : "In this technique, all objects have their separate lifecycle. However, there is ownership such that child object can’t belong to another parent object. For example consider class/objects department and teacher. Here, a single teacher can’t belong to multiple departments, but even if we delete the department, the teacher object will never be destroyed."
+  },
+  "associationdef" : {
+    "association" : "Association is a relationship between two objects. It defines the diversity between objects. In this OOP concept, all object have their separate lifecycle, and there is no owner. For example, many students can associate with one teacher while one student can also associate with multiple teachers."
+  },
+  "classdef" : {
+    "class" : "In object-oriented programming , a class is a template definition of the method s and variable s in a particular kind of object . Thus, an object is a specific instance of a class; it contains real values instead of variables."
+  },
+  "compositiondef" : {
+    "composition" : "A composition is a specialized form of Aggregation. It is also called \"death\" relationship. Child objects do not have their lifecycle so when parent object deletes all child object will also delete automatically. For that, let’s take an example of House and rooms. Any house can have several rooms. One room can’t become part of two different houses. So, if you delete the house room will also be deleted."
+  },
+  "encapsulationdef" : {
+    "encapsulation" : "Encapsulation is an OOP technique of wrapping the data and code. In this OOPS concept, the variables of a class are always hidden from other classes. It can only be accessed using the methods of their current class. For example - in school, a student cannot exist without a class."
+  },
+  "hierarchical_inherit_def" : {
+    "hierarchical_inherit" : "In this type of inheritance, more than one sub class is inherited from a single base class. i.e. more than one derived class is created from a single base class."
+  },
+  "hybrid_inherit_def" : {
+    "hybrid_inherit" : "Hybrid Inheritance is implemented by combining more than one type of inheritance. For example: Combining Hierarchical inheritance and Multiple Inheritance."
+  },
+  "inheritancedef" : {
+    "inheritance" : "Inheritance is a mechanism in which one class acquires the property of another class. For example, a child inherits the traits of his/her parents. With inheritance, we can reuse the fields and methods of the existing class."
+  },
+  "multilevel_inherit_def" : {
+    "multilevel_inherit" : "In this type of inheritance, a derived class is created from another derived class."
+  },
+  "multiple_inherit_def" : {
+    "multiple_inherit" : "Multiple Inheritance is a feature of C++ where a class can inherit from more than one classes. i.e one sub class is inherited from more than one base classes."
+  },
+  "objectdef" : {
+    "object" : "Each object is an instance of a particular class or subclass with the class's own methods or procedures and data variables."
+  },
+  "oopsdef" : {
+    "oops" : "Object Oriented Programming is a programming concept that works on the principle that objects are the most important part of your program. It allows users create the objects that they want and then create methods to handle those objects. Manipulating these objects to get results is the goal of Object Oriented Programming."
+  },
+  "polymorphismdef" : {
+    "polymorphism" : "Polymorphism refers to the ability of a variable, object or function to take on multiple forms. For example, in English, the verb “run” has a different meaning if you use it with “a laptop,” “a foot race, and ”business.&rdquo Here, we understand the meaning of “run” based on the other words used along with it.The same also applied to Polymorphism."
+  },
+  "single_inherit_def" : {
+    "single_inherit" : " In single inheritance, a class is allowed to inherit from only one class. i.e. one sub class is inherited by one base class only."
+  }
+}
