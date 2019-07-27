@@ -2,10 +2,6 @@
   "abstractdef" : {
     "abstract" : "An abstraction is an act of representing essential features without including background details. It is a technique of creating a new data type that is suited for a specific application. For example, while driving a car, you do not have to be concerned with its internal working. Here you just need to concern about parts like steering wheel, Gears, accelerator, etc."
   },
-  "admin_details" : {
-    "email" : "jeevamay6@gmail.com",
-    "password" : "jeeva007"
-  },
   "aggregationdef" : {
     "aggregation" : "In this technique, all objects have their separate lifecycle. However, there is ownership such that child object can’t belong to another parent object. For example consider class/objects department and teacher. Here, a single teacher can’t belong to multiple departments, but even if we delete the department, the teacher object will never be destroyed."
   },
